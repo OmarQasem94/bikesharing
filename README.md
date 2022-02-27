@@ -52,3 +52,4 @@ Males are clearly the majority of the system users, having the commute from work
 
 Males seem to rely on the system for their transportation as most are subscribers. Most users of the system are subscribers, using it weekdays. Non-subscribers use it more during the weekend.
 
+[link to dashboard](https://public.tableau.com/app/profile/omar4160/viz/bikesharing_challenge_16459153758620/NYC-Bikesharing?publish=yes)
